@@ -6,3 +6,5 @@ have been widely applied for image classification, but each of them having some 
 One of the advanced classification approaches is to use the deep convolutional neural network (CNN) architecture of deep learning which 
 obtains successful results in solving many machine learning problems.
 The proposed method is trained and tested on MNIST and CIFAR10 dataset and achive classification accuracy of 99.7% and 84.9% respectively
+
+## For details analysis refer to my Report
